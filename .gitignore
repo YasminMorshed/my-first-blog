@@ -25,7 +25,6 @@ Thumbs.db*
 ehthumbs*.db
 [Dd]esktop.ini
 $RECYCLE.BIN/
-secret.py
 
 # Visual Studio
 .vscode/
